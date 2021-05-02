@@ -1,2 +1,2 @@
 # AcessoClube
-Exercico com Junit 5, UML e Classes
+Exercico com Junit 5, UML, Interação de classes e Exception
